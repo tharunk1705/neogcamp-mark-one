@@ -28,7 +28,7 @@ const questions = [
 const welcomeUser = () => {
   let username = readlineSync.question("What should I call you? ");
 
-  console.log(`Welcome ${username}! Let's see, "How well do you me"`);
+  console.log(`Welcome ${username}! Let's see, How well do you know about me`);
   console.log(" ");
 };
 
