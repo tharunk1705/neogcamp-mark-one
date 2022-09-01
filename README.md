@@ -1,4 +1,7 @@
-# neogcamp-mark-one
+# **How well do you know me?** - neogcamp-mark-one
 
-### How well do you know me?
-A simple CLI based quiz app 
+A simple CLI based quiz app
+
+## How to run?
+
+`node index.js`

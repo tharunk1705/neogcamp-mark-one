@@ -1,0 +1,25 @@
+{
+  "name": "mark-1",
+  "version": "1.0.0",
+  "description": "A simple CLI base quiz app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharunk1705/neogcamp-mark-one.git"
+  },
+  "keywords": [
+    "mark-one"
+  ],
+  "author": "Tharun Kumar K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharunk1705/neogcamp-mark-one/issues"
+  },
+  "homepage": "https://github.com/tharunk1705/neogcamp-mark-one#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
